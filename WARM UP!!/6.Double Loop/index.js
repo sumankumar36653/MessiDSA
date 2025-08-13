@@ -29,3 +29,11 @@ for(let i = 0; i < 5; i++){
         
     }
 }
+
+//5
+for (let i = 5; i > 0 ; i--){
+    for(j = 0; j < i; j++){
+        
+        console.log("i = " + i + " " + "j = " + j);
+    }
+}
